@@ -10,35 +10,14 @@ This project provides an interactive dashboard for agricultural data analysis us
 5. **Neutron Probe Dataset**
 6. **Plot Boundaries**
 
-## Streamlit Parameters
-1. **Nitrogen Fertilizer:** Datewise
-2. **Irrigation Applied:** Datewise
-3. **Electrical Conductivity and pH:** Depth-wise
-4. **Volumetric Water Content:** CWR, ER, Planting Date, ET₀
-5. **Weather and Climate:** Climatic Parameters
-6. **NDVI_Ceres:** Datewise
-7. **Crop Water Requirement Analysis:** Datewise, Climate Dates, Planting and Growth Stage-wise
-
-## Data Preprocessing
-1. **Data Filtering:** Dropping rows, Computing statistics while ignoring NA
-2. **Data Merging:** By TRT_ID, Plot_ID, Block_ID
-3. **Feature Engineering:** Creating new variables for data analysis
-4. **Spatial Averaging:** Taking means for plotting and data analysis
-5. **Spatial Data Enrichment:** Adding spatial information to non-spatial data
-
 ## Dashboard Results
-1. **Nitrogen Fertilizer:** Treatments, Hybrids, Spatial and Box Plots + AI
-2. **Irrigation Applied:** Treatments, Hybrids, Spatial and Box Plots + AI
-3. **Electrical Conductivity and pH:** Depthwise, Spatial and Box plots + AI
+1. **Nitrogen Fertilizer:** Treatments, Hybrids, Spatial and Box Plots
+2. **Irrigation Applied:** Treatments, Hybrids, Spatial and Box Plots
+3. **Electrical Conductivity and pH:** Depthwise, Spatial and Box plots
 4. **Volumetric Water Content:** Depthwise, Spatial and Box Plots + AI
-5. **Weather and Climate:** Values of Variables like Temperature, Precipitation + AI
+5. **Weather and Climate:** Values of Variables like Temperature, Precipitation
 6. **NDVI_Ceres:** Spatial and Box Plots in time series + AI
-7. **Crop Water Requirement:** Customized Relationship between Variables + AI
-
-## A.I WildCat
-1. **Statistical Analysis:** Mean, Maximum, Minimum values
-2. **Trend Analysis:** Data Analysis using timeseries
-3. **Expert Opinion:** Provides expert insights based on input parameters
+7. **Crop Water Requirement:** Customized Relationship between Variables
 
 ---
 
