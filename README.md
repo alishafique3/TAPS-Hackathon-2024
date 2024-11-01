@@ -23,6 +23,9 @@ This project provides an interactive dashboard for agricultural data analysis us
 6. **NDVI_Ceres:** Spatial and Box Plots in time series + AI
 7. **Crop Water Requirement:** Customized Relationship between Variables
 
+## Analysis by A.I. WildCat Preview
+![dashboard2](https://github.com/user-attachments/assets/e539c463-5643-45ef-8a9f-217934a09833)
+
 ---
 
 This project aims to enhance agricultural productivity through data-driven insights, making it easier to monitor and manage key agricultural variables. 
