@@ -2,6 +2,10 @@
 
 This project provides an interactive dashboard for agricultural data analysis using Streamlit, featuring advanced visualization and AI-driven insights. It incorporates various datasets and analytical tools for informed decision-making in precision agriculture.
 
+## Dashboard Preview
+![dashboard1](https://github.com/user-attachments/assets/5166a09d-02f2-4ce7-a1f5-2efe333047d7)
+
+
 ## Datasets
 1. **Ceres Imager**
 2. **Climate and Weather**
