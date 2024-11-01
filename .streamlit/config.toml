@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#f63366"
+# backgroundColor = "#10344b"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#D8BFD8"
+# secondaryBackgroundColor = "#393939"
+textColor = "#111111"
+font = "sans serif"
+
+[server]
+enableStaticServing = true
